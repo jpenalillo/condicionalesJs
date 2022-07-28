@@ -1,0 +1,12 @@
+.contendorImg{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}
+.contendorImg div img{
+    width: 200px;
+    height: 200px;
+}
